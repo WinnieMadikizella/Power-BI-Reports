@@ -4,6 +4,7 @@
 A comprehensive Power BI dashboard analyzing taxi service operations over three months (May-July 2024). This project identifies key revenue patterns, trip behavior, driver efficiency, and external impacts (weather, surge pricing) while providing data-driven recommendations to optimize performance. The interactive dashboard enables stakeholders to make informed decisions to enhance operations and customer experience.
 
 Data Source: All taxi operation data analyzed in this project was provided by myDataClique.
+`taxi_organization_dataset.csv`: [View Dataset](taxi_organization_dataset.csv)
 
 ## Dashboard Features
 - Executive Summary with KPIs: Key performance indicators (KPIs) such as total revenue, total trips, average fare, and passenger count.
@@ -38,15 +39,14 @@ Data Source: All taxi operation data analyzed in this project was provided by my
 - Cohesive Color Scheme: Enhances visual storytelling for better decision-making.
 
 ## Screenshots
-### Dashboard Overview
-![Dashboard Homepage](homepage.JPG)
+### Dashboard Preview
+![Preview](screenshots/homepage.JPG)
 
 ### Revenue Analysis
-![Revenue Analysis](page_1.JPG)
+![Revenue Analysis](screenshots/page_1.JPG)
 
 ### KPI Tracking
-![KPI Tracking](page_2.JPG)
-
+![KPI Tracking](screenshots/page_2.JPG)
 
 
 ## Tools Used
