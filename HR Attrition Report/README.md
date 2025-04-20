@@ -5,8 +5,7 @@ The HR Attrition Report comprehensively analyzes employee retention, attrition, 
 
 ## Data Source   
 - **HR Analytics Dataset**:
-  [Download the dataset](https://raw.githubusercontent.com/WinnieMadikizella/HR-Attrition-Report/main/HR%20Analytics%20Data%20-%20HR%20Analytics%20Data.csv) 
-
+ [HR Analytics Data - CSV](HR%20Analytics%20Data%20-%20HR%20Analytics%20Data.csv)
 
 ## Tools Used  
 - Microsoft Power BI  
